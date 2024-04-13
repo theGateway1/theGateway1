@@ -7,6 +7,7 @@
 - 🌱 I'm exploring system design.
 - ⚡ In my free time I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohitjain011) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohit.jain9844@gmail.com)
+- 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6, 2nd & 3rd - I honestly lost that count.
 
 ---
 
