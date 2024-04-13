@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me:
 - 🔭 I’m working as a Full Stack Engineer at Realtimate Labs.
 - 🌱 I'm exploring system design.
 - ⚡ In my free time I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thegateway1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
