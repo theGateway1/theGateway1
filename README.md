@@ -4,7 +4,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 - 🔭 I’m working as a Full Stack Engineer at Realtimate Labs.
-- 🌱 Exploring system design.
+- 🌱 I'm exploring system design.
 - ⚡ In my free time I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohitjain011) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohit.jain9844@gmail.com)
 
