@@ -3,10 +3,10 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me:
-- 🔭 I’m working as a Full Stack Software Engineer at Realtimate Labs.
-- 🌱 I'm exploring system design.
+- 🔭 I’m working as a Full Stack Engineer at a product based startup - Realtimate Labs.
+- 🌱 I'm exploring Artificial Intelligence & LLMs.
 - ⚡ In my free time, I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
-- 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6, 2nd & 3rd - I honestly lost that count.
+- 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6 of them.
 - 🏅 Winner of SIH 2020.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohitjain011) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohit.jain7819@gmail.com)
 
