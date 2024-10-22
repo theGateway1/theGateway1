@@ -8,7 +8,7 @@
 - ⚡ In my free time, I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
 - 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6 of them.
 - 🏅 Winner of SIH 2020.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohitjain011) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:001.mohitjain@gmail.com)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-jain011) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohit.jain9678@gmail.com)
 
 ---
 
@@ -39,7 +39,7 @@
 ### 🔥 &nbsp; My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thegateway1&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegateway1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
