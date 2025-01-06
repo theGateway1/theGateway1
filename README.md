@@ -4,7 +4,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 - 🔭 I’m working as a Full Stack Engineer at a product based startup - Realtimate Labs.
-- 🌱 I'm deeply interested in & exploring Artificial Intelligence & Machine Learning.
+- 🌱 I'm deeply interested in building solutions using Artificial Intelligence & Machine Learning, as reflected in my projects.
 - ⚡ In my free time, I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
 - 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6 of them.
 - 🏅 Winner of SIH 2020.
