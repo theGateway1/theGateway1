@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me:
-- 🔭 I’m working as a Full Stack Engineer at a product based startup - Realtimate Labs.
+- 🔭 A Full Stack Engineer (with 3+ YOE) at a product based startup - Realtimate Labs.
 - 🌱 I'm deeply interested in building solutions using Artificial Intelligence & Machine Learning, as reflected in my projects.
 - 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6 of them.
 - 🏅 Winner of SIH 2020.
