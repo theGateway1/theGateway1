@@ -5,10 +5,11 @@
 ### :man_technologist: &nbsp;About Me:
 - 🔭 A Full Stack Engineer (with 3+ YOE) at a product based startup - Realtimate Labs.
 - 🌱 I'm deeply interested in building solutions using Artificial Intelligence & Machine Learning, as reflected in my projects.
+- ⚡ In my free time, I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating.
 - 🏅 During college, I used to participate in Hackathons, a lot, with my team. Got 1st place in 6 of them.
 - 🏅 Winner of SIH 2020.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-jain011) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohit.jain9678@gmail.com)
-<!-- - ⚡ In my free time, I read technical articles from Slack/Medium/Netflix Engineering. Absolutely fascinating. -->
+<!--  -->
 
 ---
 
